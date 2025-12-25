@@ -71,3 +71,7 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 * **Hız:** 240Hz ekranını Windows'ta oyunlar için, Fedora'da ise profesyonel kod yazma deneyimi için kullanabilirsin.
 
 **Dual-Boot sistemin hazır! Artık hantal Windows servislerinden sıkıldığında Fedora'ya sığınabilirsin.**
+
+
+---
+[<-- Temiz Kurulum Rehberi](installation.md) | [Komut Sözlüğü -->](fedora-commands.md)

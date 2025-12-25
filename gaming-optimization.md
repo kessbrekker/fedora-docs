@@ -82,3 +82,7 @@ Oyun sırasında her şeyin yolunda olduğunu doğrulamak için MangoHud üzerin
 
 ---
 **Bir sonraki adım:** [Yazılım Geliştirme Ortamı (Podman & Distrobox)](development-env.md) (Hazırlanıyor...)
+
+
+---
+[<-- Geliştirme Ortamı](development-env.md) | [Bakım ve Yedekleme -->](maintenance-backups.md)

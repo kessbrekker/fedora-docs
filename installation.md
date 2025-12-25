@@ -76,3 +76,7 @@ Bilgisayar açıldığında Fedora seni bir karşılama ekranıyla karşılar:
 * **Snapshot:** Btrfs dosya sistemi sayesinde artık "sistemim bozulur mu" korkun bitti.
 
 **Tebrikler! Artık gerçek bir mühendislik harikası olan Fedora dünyasındasın.**
+
+
+---
+[<-- Sistem Stratejisi](fedora.md) | [Dual-Boot Rehberi -->](installation-dualboot.md)

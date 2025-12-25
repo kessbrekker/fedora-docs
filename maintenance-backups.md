@@ -92,3 +92,7 @@ upower -i /display_device
 
 ---
 **"Arch Linux seni tamirci yapar, Fedora seni mühendis yapar. Mühendisler sistemlerini değil, geleceklerini inşa ederler."** 🚀
+
+
+---
+[<-- Oyun Optimizasyonu](gaming-optimization.md)

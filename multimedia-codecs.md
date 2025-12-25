@@ -74,3 +74,7 @@ vainfo
 
 ---
 **Bir sonraki adım:** [Oyun Optimizasyonu ve 240Hz Ayarları](gaming-optimization.md) (Hazırlanıyor...)
+
+
+---
+[<-- Komut Sözlüğü](fedora-commands.md) | [Geliştirme Ortamı -->](development-env.md)

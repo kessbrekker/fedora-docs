@@ -109,3 +109,7 @@ VS Code'un yağ gibi akması için `~/.config/code-flags.conf` içine şunları 
 
 ---
 **Bir sonraki adım:** [Btrfs Snapshots ve Sistem Bakımı](maintenance-backups.md) (Hazırlanıyor...)
+
+
+---
+[<-- Multimedya & Codec](multimedia-codecs.md) | [Oyun Optimizasyonu -->](gaming-optimization.md)

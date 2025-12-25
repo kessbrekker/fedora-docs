@@ -12,10 +12,14 @@ Aşağıdaki bağlantıları kullanarak ihtiyacın olan kurulum veya yapılandı
 
 | Dosya | Açıklama | Hedef |
 | :--- | :--- | :--- |
+| 🏎️ **[Sistem Stratejisi](fedora.md)** | Genel bakış, optimizasyon ve geçiş stratejisi. | Performans |
 | 💿 **[Temiz Kurulum Rehberi](installation.md)** | FreeDOS cihazlar için sıfırdan Fedora kurulumu. | Yeni Başlangıç |
 | 🛡️ **[Dual-Boot Rehberi](installation-dualboot.md)** | Windows 11 yanına Fedora kurulumu ve disk yönetimi. | Hibrit Kullanım |
-| 🏎️ **[Sistem Stratejisi](fedora.md)** | GPU (NVIDIA), GRUB Teması ve Kernel optimizasyonları. | Performans |
 | 📦 **[Komut Sözlüğü](fedora-commands.md)** | DNF kullanımı, Arch vs Fedora ve özel shell fonksiyonları. | Verimlilik |
+| 🎥 **[Multimedya & Codec](multimedia-codecs.md)** | Video/Ses codecleri ve multimedya araçları. | Medya |
+| 💻 **[Geliştirme Ortamı](development-env.md)** | IDE'ler, Docker, Node.js ve diğer dev araçları. | Geliştirme |
+| 🎮 **[Oyun Optimizasyonu](gaming-optimization.md)** | Steam, Lutris ve oyun performansı ayarları. | Eğlence |
+| 🔧 **[Bakım ve Yedekleme](maintenance-backups.md)** | Sistem bakımı, güncellemeler ve yedekleme stratejileri. | Güvenlik |
 
 ---
 

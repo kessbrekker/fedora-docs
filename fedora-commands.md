@@ -114,3 +114,7 @@ sudo dnf5 install docker
   ```
 *Not: Değişikliklerin aktif olması için terminale `source ~/.zshrc` yazmayı unutma.*
 * **Konteyner Kullanımı:** Sistem paketlerini (`dnf`) sadece temel araçlar için kullan. Projeye özel kütüphaneleri (Python env, Node modules) her zaman **Distrobox** veya **Toolbox** içinde tut.
+
+
+---
+[<-- Dual-Boot Rehberi](installation-dualboot.md) | [Multimedya & Codec -->](multimedia-codecs.md)

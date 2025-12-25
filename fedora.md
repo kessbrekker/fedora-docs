@@ -107,3 +107,7 @@ toolbox create --distro arch -c arch-dev
 toolbox enter arch-dev
 # Artık Fedora'nın içindeki bir terminalde Arch kullanıyorsun!
 ```
+
+
+---
+[Sonraki: Temiz Kurulum Rehberi -->](installation.md)
