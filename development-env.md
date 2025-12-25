@@ -108,8 +108,4 @@ VS Code'un yağ gibi akması için `~/.config/code-flags.conf` içine şunları 
 4.  **SELinux:** Fedora'nın güvenlik duvarıdır. Geliştirme yaparken engellere takılırsan tamamen kapatmak yerine `setenforce 0` ile geçici olarak esnetmeyi öğren.
 
 ---
-**Bir sonraki adım:** [Btrfs Snapshots ve Sistem Bakımı](maintenance-backups.md) (Hazırlanıyor...)
-
-
----
 [<-- Multimedya & Codec](multimedia-codecs.md) | [Oyun Optimizasyonu -->](gaming-optimization.md)
